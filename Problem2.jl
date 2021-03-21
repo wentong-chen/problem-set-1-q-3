@@ -1,4 +1,5 @@
-#Minhao Yan my497 Wentong Chen wc422
+#HW2 Problem 2
+#Minhao Yan my497, Wentong Chen wc422
 #1. Generate array of random numbers named x
 x = rand(Float64, (20000,20000))
 
